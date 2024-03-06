@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\project.winui\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|solutionrelative:project.winui\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|c:\\users\\lenovo\\documents\\github\\acentatest\\acenta_0\\project.winui\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|solutionrelative:project.winui\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\project.winui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|solutionrelative:project.winui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\project.winui\\acentaekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|solutionrelative:project.winui\\acentaekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\project.winui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|solutionrelative:project.winui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\project.winui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|solutionrelative:project.winui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\project.winui\\acentaekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|solutionrelative:project.winui\\acentaekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\project.winui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{960522CF-C1A5-41CA-87D0-9F6A9A43459F}|Project.WinUI\\Project.WinUI.csproj|solutionrelative:project.winui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kayit.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\Kayit.cs",
+              "RelativeDocumentMoniker": "Project.WinUI\\Kayit.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\Kayit.cs",
+              "RelativeToolTip": "Project.WinUI\\Kayit.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:50:18.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\Kayit.cs",
+              "RelativeDocumentMoniker": "Project.WinUI\\Kayit.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\Kayit.cs [Design]",
+              "RelativeToolTip": "Project.WinUI\\Kayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T17:13:02.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcentaEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\AcentaEkle.cs",
+              "RelativeDocumentMoniker": "Project.WinUI\\AcentaEkle.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AcentaTest\\Acenta_0\\Project.WinUI\\AcentaEkle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\AcentaTest\\Acenta_0\\Project.WinUI\\AcentaEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T13:39:53.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Project.WinUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\Form1.cs",
+              "RelativeToolTip": "Project.WinUI\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:53:33.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\packages.config",
+              "RelativeDocumentMoniker": "Project.WinUI\\packages.config",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\packages.config",
+              "RelativeToolTip": "Project.WinUI\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-25T14:15:59.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AcentaEkle.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\AcentaEkle.cs",
+              "RelativeDocumentMoniker": "Project.WinUI\\AcentaEkle.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\AcentaEkle.cs",
+              "RelativeToolTip": "Project.WinUI\\AcentaEkle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T13:49:08.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Project.WinUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AcentaTest\\Acenta_0\\Project.WinUI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\AcentaTest\\Acenta_0\\Project.WinUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T13:39:53.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\App.config",
+              "RelativeDocumentMoniker": "Project.WinUI\\App.config",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\AcentaTest\\Acenta_0\\Project.WinUI\\App.config",
+              "RelativeToolTip": "Project.WinUI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-25T13:39:53.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

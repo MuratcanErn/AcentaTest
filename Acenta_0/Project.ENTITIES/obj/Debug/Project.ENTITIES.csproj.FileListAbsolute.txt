@@ -1,0 +1,18 @@
+C:\Users\Lenovo\source\repos\Acenta_0\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\source\repos\Acenta_0\Project.ENTITIES\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\source\repos\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\source\repos\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.ENTITIES\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.ENTITIES\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.ENTITIES\obj\Debug\Project.ENTITIES.pdb

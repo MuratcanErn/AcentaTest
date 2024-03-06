@@ -1,0 +1,113 @@
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.exe.config
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.exe
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.pdb
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Form1.resources
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.exe
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.pdb
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.dll
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.dll
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.dll
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.pdb
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.dll.config
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.pdb
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.dll.config
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.pdb
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.dll.config
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.KayitOl.resources
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.AcentaEkle.resources
+C:\Users\Lenovo\source\repos\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Kayit.resources
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.exe.config
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.exe
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.pdb
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.dll
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.dll
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.dll
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.pdb
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.dll.config
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.pdb
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.dll.config
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.pdb
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.dll.config
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.AcentaEkle.resources
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Form1.resources
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Kayit.resources
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.exe
+C:\Users\Lenovo\Desktop\Çok yakın zamanda Almanya bileti\Acenta_0\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.pdb
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.exe.config
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.exe
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.pdb
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.dll
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.dll
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.dll
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.pdb
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.dll.config
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.pdb
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.dll.config
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.pdb
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.dll.config
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.AcentaEkle.resources
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Form1.resources
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Kayit.resources
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.exe
+C:\Users\Lenovo\Desktop\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.pdb
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.exe.config
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.exe
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.WinUI.pdb
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.dll
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.dll
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.dll
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.pdb
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.BLL.dll.config
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.pdb
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.DAL.dll.config
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.pdb
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\bin\Debug\Project.MAP.dll.config
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.AcentaEkle.resources
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Form1.resources
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Kayit.resources
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project..D7EDF7A9.Up2Date
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.exe
+C:\Users\Lenovo\Desktop\AcentaTest\Acenta_0\Project.WinUI\obj\Debug\Project.WinUI.pdb
